@@ -1,6 +1,6 @@
 #PowerCoefficientCalculator
 Calculates the power coefficient of a wind turbine and determines whether it is working optimally or not
-The file you input needs to be in the specific format that is shown in the example file given. However you do not need to have the time included in the input file. 
+The file you input needs to be in the specific format that is shown in the example file given. However you do not need to have the time included in the input file. Also, the file name that you input with needs to be the same as the example file shown. 
 
 #Background information
 Global warming and climate change have been big issues for the world for the past decade. This issue has not only been growing on us recently but will be a big issue 
