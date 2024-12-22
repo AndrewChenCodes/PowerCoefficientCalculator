@@ -1,13 +1,10 @@
+package powerCoefficientCalculator;
+
 import java.lang.Math;
 import java.util.Scanner;
-import java.io.*;
 import java.io.File;
 import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Paths;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.ArrayList;
+
 public class powerCoefficient
 {
 int diameter = 132;
